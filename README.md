@@ -10,3 +10,5 @@ matlab函数查询（中文版） https://ww2.mathworks.cn/help/matlab/ref/find.
 matplotlib参考手册  https://matplotlib.org/index.html
 
 numpy参考手册  https://www.numpy.org/devdocs/index.html
+
+scipy参考手册（官网）  https://www.scipy.org/
