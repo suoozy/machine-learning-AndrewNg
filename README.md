@@ -11,4 +11,4 @@ matplotlib参考手册  https://matplotlib.org/index.html
 
 numpy参考手册  https://www.numpy.org/devdocs/index.html
 
-scipy参考手册（官网）  https://www.scipy.org/
+scipy参考手册） https://docs.scipy.org/doc/scipy/reference/
