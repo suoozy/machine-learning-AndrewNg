@@ -5,4 +5,7 @@
 
 matlab函数查询（中文版） https://ww2.mathworks.cn/help/matlab/ref/find.html?searchHighlight=find&s_tid=doc_srchtitle
 
-ex1和ex2为matlab版本
+ex1和ex2为matlab版本，其余为python版本
+
+matplotlib参考手册  https://matplotlib.org/index.html
+numpy参考手册  https://www.numpy.org/devdocs/index.html
